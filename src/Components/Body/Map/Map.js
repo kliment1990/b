@@ -14,6 +14,6 @@ const Map = () => {
 export default Map;
 
 const MapImage = styled.img `
-  width: 610px;
+  width: 611px;
   height: 711px;
 `
